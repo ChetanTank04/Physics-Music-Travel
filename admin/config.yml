@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/physics-music-travel
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+site_url: https://chetantank.com
+
+collections:
+  - name: "post"
+    label: "Journal entries"
+    folder: "entries"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", time_format: false }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "Letters to self", value: "letters" }
+          - { label: "Physics", value: "physics" }
+          - { label: "Music", value: "music" }
+          - { label: "Travel", value: "travel" }
+          - { label: "Daily reading", value: "reading" }
+          - { label: "Nostalgia", value: "nostalgia" }
+          - { label: "Poetry", value: "poetry" }
+      - { label: "Short excerpt (shown on the home page)", name: "excerpt", widget: "text" }
+      - { label: "Main image", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
