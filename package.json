@@ -1,0 +1,7 @@
+{
+  "name": "physics-music-travel",
+  "private": true,
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
