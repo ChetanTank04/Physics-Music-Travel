@@ -1,0 +1,14 @@
+---
+title: "“I loved them and they loved me back”"
+date: 2020-04-03
+categories:
+  - physics
+  - reading
+excerpt: "Ustad Alla Rakha said this of his tablas. On non-living consciousness, and becoming one with an instrument."
+image: "https://static.wixstatic.com/media/b6e28d_5d46e23944154239881fa65476607aa8~mv2.jpg/v1/fill/w_313,h_313,al_c,q_90/b6e28d_5d46e23944154239881fa65476607aa8~mv2.jpg"
+---
+
+<p>This is a famous statement from Ustad Alla Rakha, the maestro tabla player and father of Ustad Zakir Hussain. He said this of his tablas, the instruments. He said in Hindi, actually: <em>&ldquo;Maine inse pyar kiya hai, aur inhone mujhse pyar kiya hai.&rdquo;</em> He is saying this for a non-living pair of tabla.</p>
+<p>I am a strong believer in the idea that non-living things also have some unknown consciousness. I read in a book about Maharshi Arvind, written by Jyoti Thanki, about an African saint &mdash; he used to call his slippers to him, and the slippers used to come to his feet. I haven&rsquo;t seen anything like this with my own eyes but I believe her.</p>
+<p>I play flute for internal peace and I love it. I love not just playing it but I love the instrument. It&rsquo;s exactly like loving a person. It needs the same involvement and dedication. I also find that it gives me back the same affection and love, like a person. All the iconic musicians become one with their instrument, and I think that is the first condition of love. Becoming one with something is only possible if it has consciousness. People said when Ustad Vilayat Khan played sitar, one couldn&rsquo;t know where his hands ended and where the sitar started. He became one with his sitar. Ustad Bade Ghulam Ali Khan and his swarmandal were one with each other. He used to sleep with it.</p>
+<p>It is like pouring life into the stone and calling it God. People&rsquo;s faith gave life to that stone and everybody believes that it has some powers. The faith of an artist gives life to the rigid non-living instrument. Yes, I believe that Alla Rakha&rsquo;s tabla surely loved him back.</p><div class="gallery"><img src="https://static.wixstatic.com/media/b6e28d_5d46e23944154239881fa65476607aa8~mv2.jpg/v1/fill/w_313,h_313,al_c,q_90/b6e28d_5d46e23944154239881fa65476607aa8~mv2.jpg" alt="Tabla" loading="lazy"><img src="https://static.wixstatic.com/media/b6e28d_7ffb0c5430e14c368198b420815b44bc~mv2.jpeg/v1/fill/w_314,h_313,al_c,q_90/b6e28d_7ffb0c5430e14c368198b420815b44bc~mv2.jpeg" alt="Musician with instrument" loading="lazy"><img src="https://static.wixstatic.com/media/b6e28d_29d6dc121cf341a0b07eb5393c4f6a0b~mv2.jpg/v1/fill/w_313,h_313,al_c,q_90/b6e28d_29d6dc121cf341a0b07eb5393c4f6a0b~mv2.jpg" alt="Instrument" loading="lazy"><img src="https://static.wixstatic.com/media/b6e28d_f4bea90c742a4fe396e4b2919d69f2fe~mv2.png/v1/fill/w_952,h_534,al_c,q_90/b6e28d_f4bea90c742a4fe396e4b2919d69f2fe~mv2.png" alt="Ustad Alla Rakha" loading="lazy"></div>
