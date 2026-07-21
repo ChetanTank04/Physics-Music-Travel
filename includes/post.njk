@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }} &mdash; Physics &middot; Music &middot; Travel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,400&family=Noto+Serif+Gujarati:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<aside class="spine" aria-hidden="true">
+  <span class="title">Physics &middot; Music &middot; Travel</span>
+  <span class="seal">ચે</span>
+</aside>
+<div class="page">
+  <header class="post-header">
+    <a class="home" href="/">&larr; Physics &middot; Music &middot; Travel</a>
+  </header>
+  <article class="post">
+    <p class="date">{{ date | dispDate }} &middot; Chetan Tank</p>
+    <h1>{{ title }}</h1>
+    {% if image %}<div class="body"><figure><img src="{{ image }}" alt="" loading="lazy"></figure></div>{% endif %}
+    <div class="body">
+      {{ content | safe }}
+    </div>
+    <div class="post-tags">
+      {% for c in categories %}<a href="/">{{ catNames[c] }}</a>{% endfor %}
+    </div>
+  </article>
+<section class="foot-grid">
+    <div>
+      <h3>Subscribe</h3>
+      <p>An occasional letter when a new entry is written. No noise, no schedule &mdash; like the journal itself.</p>
+      <div class="sub">
+        <input type="email" placeholder="Your email address" aria-label="Email address">
+        <button type="button">Subscribe</button>
+      </div>
+    </div>
+    <div>
+      <h3>Contact</h3>
+      <p><a href="mailto:chetan.tank@yahoo.com">chetan.tank@yahoo.com</a></p>
+      <div class="social">
+        <a href="https://www.facebook.com/chetan.tank4">Facebook</a>
+        <a href="https://www.instagram.com/chetan_tank04061983/">Instagram</a>
+        <a href="https://www.linkedin.com/in/chetan-tank-61375476/">LinkedIn</a>
+      </div>
+    </div>
+  </section>
+  <footer class="site">
+    <span>&copy; 2026 Chetan Tank &middot; Physics &middot; Music &middot; Travel</span>
+    <span class="guj">અપૂર્ણતામાં જ સૌંદર્ય છે</span>
+  </footer>
+</div>
+</body>
+</html>
