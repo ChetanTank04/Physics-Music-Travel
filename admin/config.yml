@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/physics-music-travel
+  repo: ChetanTank04/physics-music-travel
   branch: main
 
 media_folder: "images"
